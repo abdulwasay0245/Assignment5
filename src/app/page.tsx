@@ -13,7 +13,6 @@
 //   );
 // }
 import Image from 'next/image'
-import { Rye } from 'next/font/google'
 import { Libre_Bodoni } from "next/font/google";
 import Header from '@/component/header';
  
